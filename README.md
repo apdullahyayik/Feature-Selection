@@ -5,7 +5,7 @@
 
 # Usage
                 index=corrSel(feature,class)
-	              selected_features=feature(:,index)
+	        selected_features=feature(:,index)
 
 # Explanation
                 High correlation among features and low correlation between
