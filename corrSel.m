@@ -1,5 +1,5 @@
 function index = corrSel( data, label )
-%CORRSEL    Correlation-based feature selection
+%CORRSEL    Correlation-based feature selectio
 %
 %                data .................input data matrix (each row is an observetion)
 %                label.................ground-truth
